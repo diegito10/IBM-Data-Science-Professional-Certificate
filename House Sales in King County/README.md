@@ -1,0 +1,1 @@
+### A python project analyzing house sales in King County. Methods include data cleaning, wrangling, regressions and evaluation
