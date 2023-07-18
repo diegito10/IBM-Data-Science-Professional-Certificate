@@ -1,0 +1,1 @@
+### An analytical project analyzing Chicago's Census, Schools, and Crime using SQL
