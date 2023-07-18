@@ -1,0 +1,1 @@
+### A machine learning analysis of rain prediction in Australia. Multiple methods used such as Linear Regression, K-Nearest Neighbour, Decision Trees, Logistic Regression, and SVM. Then finally evaluated using various evaluation scores.
